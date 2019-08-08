@@ -1,0 +1,4 @@
+
+Hello world!
+Hello Vimi
+added by "r Text.txt"
